@@ -1,0 +1,96 @@
+
+h1{
+	background-color: rgba(0,0,0,.4);
+	padding:1em;
+	float:center;
+	color:#E8E8E8;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	font-size:2em;
+
+
+}
+
+#main-title ins{
+	color:#B85223;
+	text-decoration:none;
+}
+
+a{
+	color:white;
+	padding:1.5em;
+	background-color:none;
+	text-decoration:none;
+
+}
+
+li{
+	display:inline;
+}
+#tagline{
+	text-align:block;
+	position:absolute;	
+	color:white;
+	left:500px;
+	top:10px;
+	text-transform:uppercase;
+	padding:1em;
+	font-size:1em;
+
+}
+
+#main-title{
+	width:cover;
+}
+
+#glass{
+	opacity:.5;
+	
+}
+
+#welcome-quote{
+	font: 1em 'Oleo Script', Helvetica, sans-serif;
+  	color: #2b2b2b;
+	position:absolute;
+	top: 260px;
+	left:180px;
+	padding-bottom:150px;
+	padding-left: 50px;
+	padding-right: 60px;
+	padding-top:30px;
+	background: #E8E8E8;
+	border-radius: 10px;
+	border-style:solid;
+	border-color:#B85223;	
+}
+
+#intro-paragraph{
+	position:absolute;
+	top:330px;
+	left:280px;
+	width: 400px;
+	line-height: 1.5em;
+}
+
+
+
+.nav-section{
+	padding:.5em;
+	background-color:rgba(0,0,0,.4);
+	color:white;
+
+}
+body{
+	height:50px;
+	width:auto;
+	background-image: url("../img/duo-burger.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+footer{
+	position:absolute;
+	left:10px;
+	bottom:-20px;
+	color:#E8E8E8;
+}
